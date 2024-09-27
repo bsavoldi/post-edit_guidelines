@@ -1,1 +1,1 @@
-This repo contains the guidelines used for the human-centered post-editing task.
+This repo contains the guidelines used for the human-centered post-editing task presented in [ What the Harm? Quantifying the Tangible Impact of Gender Bias in Machine Translation with a Human-centered Study]().
